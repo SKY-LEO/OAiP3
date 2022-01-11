@@ -1,4 +1,4 @@
-#include <math.h>
+//#include <math.h>
 #include <iostream>
 #include <conio.h>
 #include <iomanip>
